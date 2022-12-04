@@ -1,1 +1,1 @@
-# BankDatabaseManagenemntSystem
+# BankDatabaseManagenmentSystem
